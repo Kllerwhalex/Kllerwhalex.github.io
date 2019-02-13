@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+	height:15%;
+	width:100%}
+
+nav {line-height:30px;
+    background-color:#eeeeee;
+    height:80%;
+    width:auto;
+    float:left;
+    padding:10px;
+	padding-top:20px;
+	min-width:150px;
+	max-width:180px}
+	
+a {text-decoration:none; color:black}
+
+section {display:block;
+    width:70%;
+    float:right;
+    padding:20px;}
+
+div {min-width:550px;
+	max-width:600px;
+	position:center
+	text-align:left}
+
+ul#future {color:#999}
+h2#future {color:#666}
+	
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+	height:4%;
+}

@@ -1,0 +1,21 @@
+
+<script>
+var href = "http://104.46.102.50:1227/createinstance/user=killerwhalexpass=" + document.getElementsByName("password") + "="; //any other link as wish
+ var links = document.getElementsByClassName('dynamicLink');
+ for (var i = 0; i < links.length; i++) {
+    links[i].href = href;}
+</script>
+
+<head>
+<title>Begin</title>
+<link type="text/css" rel="stylesheet" href="begin.css"/>
+</head>
+<body>
+<form>
+Password: <input type="text" name="password">
+<input type="submit" value="Submit">
+</form>
+<a href="links" class='dynamicLink'>links</a>
+</body>
+</html>
+

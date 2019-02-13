@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body {font-family:'freight-sans-pro', 'Helvetica', 'Arial', sans-serif; background-color:#000; color:#FFF;}
+div.top { position:center; width: 90%; text-align:center; min-height: 450px; height: 700px; margin:0 auto;; min-width: 1020px}
+h1 {font-family:'Great Vibes'; font-size:70px; font-weight:400}
+h2 {font-family:'Great Vibes'; font-size:30px; text-align:left; font-weight:500}
+p {font-family:'freight-sans-pro', 'Helvetica', 'Arial', sans-serif; text-align:left; font-size:16px;}
+img {padding-top:50px; padding-left:20px; padding-right:20px;
+width:40%;
+height:auto;
+position:relative; min-width:400px}
+
+div#day1 {display:block; text-align:left; min-width: 1020px}

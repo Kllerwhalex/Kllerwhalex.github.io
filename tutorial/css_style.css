@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {font-family:'freight-sans-pro', 'Helvetica', 'Arial', sans-serif; background-color:#fff; color:#000; position: relative;}
+
+a, a:visited, a:hover, a:link, a:active {text-decoration:none; color: #000;}
+
+section#panel_one {display:block; position:relative; width: 100%; text-align:center; min-height: 450px; height: 700px;}
+
+section#panel_two {display:block; position:relative; width: 100%; text-align:center; background-color:#FFC0DB; color: #fff; padding-bottom: 180px;}
+
+h1#intro {position:relative; top:70%; display:block; width:auto; font-weight:300; font-size:40px; padding-left:20px; padding-right:20px; text-align: center;}
+
+h1#intro span {font-weight: 500; font-size:60px; font-family:"Great Vibes"}
+
+h2#roar {position: relative;
+	padding-top: 180px;
+	text-align: center;
+	width: 100%;
+	font-weight: 300;
+	font-size: 120px;
+	
+}
+
+span#new {color: #FFDF00}
+
+section a {
+	color: #fff;
+	font-size: 35px;
+	width: 450px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	line-height: 45px;
+}
+
+
+}
+
+a#mail {
+	position: relative;
+	margin-top: 230px;
+	left: auto;
+	right: auto;
+	padding: 0px;
+	font-weight: 300;
+	font-size: 50px;
+	display: inline-block;
+	text-align: center;
+
+	line-height: 40px;
+
+	border-bottom: 3px solid #ccc;
+	font-family:"Great Vibes"
+}
+img {
+display: block;
+margin: 0px auto;
+margin-bottom: 10px;
+width:600px;
+height:auto}
+
+
+font-family: 'Great Vibes', cursive;
+
+
+
